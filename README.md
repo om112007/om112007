@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:1a1b26&height=200&section=header&text=OM%20HIRE&fontSize=52&fontColor=7aa2f7&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Java%20%E2%80%A2%20DSA&descAlignY=55&descSize=18&descColor=bb9af7" width="100%"/>
 <br/>
@@ -60,4 +60,4 @@ I'm working toward growing into a strong Software Engineer, with a current focus
 
 </div>
 
-<br/>
+<br/> -->
