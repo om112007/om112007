@@ -23,7 +23,7 @@ Backend Developer &nbsp;•&nbsp; MERN Stack &nbsp;•&nbsp; Java &nbsp;•&nbsp
 
 <div align="center">
 
-<img src="assets/hero-terminal.svg" alt="Welcome Terminal" width="600"/>
+
 
 <br/><br/>
 
