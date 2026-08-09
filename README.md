@@ -5,7 +5,9 @@
 
 <br/>
 **B.Tech Computer Engineering Student**
+
 Backend Developer &nbsp;•&nbsp; MERN Stack &nbsp;•&nbsp; Java &nbsp;•&nbsp; DSA
+
 
 <br/>
 
