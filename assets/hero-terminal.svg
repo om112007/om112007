@@ -1,1 +1,40 @@
 
+<svg width="700" height="230" viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Fira Code', monospace">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#000000"/>
+      <rect width="4" height="1" fill="#39D353" opacity="0.03"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="230" fill="#0a0e0a"/>
+  <rect x="0" y="0" width="700" height="230" fill="url(#scanlines)"/>
+
+  <rect x="8" y="8" width="684" height="214" fill="none" stroke="#39D353" stroke-width="2"/>
+  <rect x="8" y="8" width="14" height="14" fill="#39D353"/>
+  <rect x="678" y="8" width="14" height="14" fill="#39D353"/>
+  <rect x="8" y="208" width="14" height="14" fill="#39D353"/>
+  <rect x="678" y="208" width="14" height="14" fill="#39D353"/>
+
+  <text x="350" y="55" text-anchor="middle" fill="#39D353" font-size="22" font-weight="700" filter="url(#glow)" letter-spacing="2">WELCOME, VISITOR.</text>
+
+  <text x="350" y="90" text-anchor="middle" fill="#7ee787" font-size="15" letter-spacing="1.5">OM HIRE // DEVELOPER PROFILE</text>
+
+  <line x1="60" y1="112" x2="640" y2="112" stroke="#1f4d2c" stroke-width="1"/>
+
+  <text x="120" y="140" fill="#6b8f6f" font-size="13">STATUS..........:</text>
+  <text x="280" y="140" fill="#39D353" font-size="13" font-weight="700">ONLINE</text>
+
+  <text x="120" y="165" fill="#6b8f6f" font-size="13">ACCESS LEVEL....:</text>
+  <text x="280" y="165" fill="#39D353" font-size="13" font-weight="700">PUBLIC</text>
+
+  <text x="120" y="190" fill="#6b8f6f" font-size="13">PROFILE ACCESS..:</text>
+  <text x="280" y="190" fill="#39D353" font-size="13" font-weight="700">GRANTED</text>
+</svg>
