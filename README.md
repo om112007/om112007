@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=SYSTEM+INITIALIZING...;SCANNING+PROFILE...;AUTHENTICATING+USER...;ACCESS+GRANTED;WELCOME%2C+OM+HIRE" alt="terminal boot sequence" />
-
 <br/>
 
 **B.Tech Computer Engineering Student**
